@@ -1,0 +1,13 @@
+{
+  "name": "sdin",
+  "version": "0.0.1",
+  "description": "A JavaScript package builder",
+  "license": "MIT",
+  "keywords": [
+    "sdin"
+  ],
+  "homepage": "https://github.com/conerjs/sdin#readme",
+  "bugs": "https://github.com/conerjs/sdin/issues",
+  "repository": "git+https://github.com/conerjs/sdin.git",
+  "devDependencies": {}
+}
